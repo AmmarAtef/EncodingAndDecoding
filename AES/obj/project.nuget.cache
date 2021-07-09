@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "flHnzgxyUx3WF6l2ZFIl1IsCSN9yhUEjTlc1Qnx/wIHAdFdYCcW3GTuQQKoJAhYNsnx261J4AplZjIbrrValKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaahmed\\source\\repos\\Encryption\\AES\\AES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

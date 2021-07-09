@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEyLoq/SPgDTacHKS1k5DjJ1NIKoNMq4+914M5Iwo9pPaNx4Ra6CIeZGOHQOoWuUKYoUT58VKo1sn335V97g3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaahmed\\source\\repos\\Encryption\\TripleDES\\TripleDES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

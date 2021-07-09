@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hybrid": {
+      "commandName": "Project",
+      "commandLineArgs": "--file E:\\Project\\psdata\\in\\Naseej.txt"
+    }
+  }
+}

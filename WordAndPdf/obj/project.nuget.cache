@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2nJVwQBXYS6c70Y7sxIkIqi+Ah+NCvAyNNWcm5q/iRRoPs/2P3JOcAVDB24iBeuD3p5NFtgcR2UYYxqlL4FRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaahmed\\source\\repos\\Encryption\\WordAndPdf\\WordAndPdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

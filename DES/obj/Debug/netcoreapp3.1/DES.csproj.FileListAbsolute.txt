@@ -1,0 +1,13 @@
+C:\Users\aaahmed\source\repos\Encryption\DES\bin\Debug\netcoreapp3.1\DES.exe
+C:\Users\aaahmed\source\repos\Encryption\DES\bin\Debug\netcoreapp3.1\DES.deps.json
+C:\Users\aaahmed\source\repos\Encryption\DES\bin\Debug\netcoreapp3.1\DES.runtimeconfig.json
+C:\Users\aaahmed\source\repos\Encryption\DES\bin\Debug\netcoreapp3.1\DES.runtimeconfig.dev.json
+C:\Users\aaahmed\source\repos\Encryption\DES\bin\Debug\netcoreapp3.1\DES.dll
+C:\Users\aaahmed\source\repos\Encryption\DES\bin\Debug\netcoreapp3.1\DES.pdb
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.csprojAssemblyReference.cache
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.AssemblyInfoInputs.cache
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.AssemblyInfo.cs
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.csproj.CoreCompileInputs.cache
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.dll
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.pdb
+C:\Users\aaahmed\source\repos\Encryption\DES\obj\Debug\netcoreapp3.1\DES.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+g3kJd90tHW5jBCLr4v2f/4C4aWEpTV+ApfbixM8Un3EHa0d/8qgzAP/K2aY7MS/Hn9x0vQ4EgAqeB7Ma81VmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaahmed\\source\\repos\\Encryption\\DES\\DES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaahmed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

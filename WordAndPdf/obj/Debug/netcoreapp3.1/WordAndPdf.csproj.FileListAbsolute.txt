@@ -1,0 +1,12 @@
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\bin\Debug\netcoreapp3.1\WordAndPdf.exe
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\bin\Debug\netcoreapp3.1\WordAndPdf.deps.json
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\bin\Debug\netcoreapp3.1\WordAndPdf.runtimeconfig.json
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\bin\Debug\netcoreapp3.1\WordAndPdf.runtimeconfig.dev.json
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\bin\Debug\netcoreapp3.1\WordAndPdf.dll
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\bin\Debug\netcoreapp3.1\WordAndPdf.pdb
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\obj\Debug\netcoreapp3.1\WordAndPdf.AssemblyInfoInputs.cache
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\obj\Debug\netcoreapp3.1\WordAndPdf.AssemblyInfo.cs
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\obj\Debug\netcoreapp3.1\WordAndPdf.csproj.CoreCompileInputs.cache
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\obj\Debug\netcoreapp3.1\WordAndPdf.dll
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\obj\Debug\netcoreapp3.1\WordAndPdf.pdb
+C:\Users\aaahmed\source\repos\Encryption\WordAndPdf\obj\Debug\netcoreapp3.1\WordAndPdf.genruntimeconfig.cache

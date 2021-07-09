@@ -1,0 +1,13 @@
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\bin\Debug\netcoreapp3.1\TripleDES.exe
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\bin\Debug\netcoreapp3.1\TripleDES.deps.json
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\bin\Debug\netcoreapp3.1\TripleDES.runtimeconfig.json
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\bin\Debug\netcoreapp3.1\TripleDES.runtimeconfig.dev.json
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\bin\Debug\netcoreapp3.1\TripleDES.dll
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\bin\Debug\netcoreapp3.1\TripleDES.pdb
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.AssemblyInfoInputs.cache
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.AssemblyInfo.cs
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.csproj.CoreCompileInputs.cache
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.dll
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.pdb
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.genruntimeconfig.cache
+C:\Users\aaahmed\source\repos\Encryption\TripleDES\obj\Debug\netcoreapp3.1\TripleDES.csprojAssemblyReference.cache
